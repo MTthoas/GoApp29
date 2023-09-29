@@ -1,0 +1,32 @@
+5FPprcvF-T75f91DQ2C
+72 44 90
+[ctf-school-????????]
+81 49 56 53 50 51 53 = Q185235
+
+
+Welcome to the challenge !
+Here is your first Challenge: 2c8f4af416478a129f833c9579279df8
+Don't forget that: 5bc2fb8cff6b14d9c62ea6447da62a4c
+
+https://tinyurl.com/ctf-school-Q185235
+https://tinyurl.com/ctf-school-T75f91DQ2C
+https://tinyurl.com/ctf-school-5FPprcvF
+https://tinyurl.com/ctf-school-5FPprcvF-T75f91DQ2C
+https://tinyurl.com/ctf-school-2c8f4af416478a129f833c9579279df8
+
+Pasting code from the Internet into production code is like chewing gum found in the street.
+
+{
+		User
+		Secret
+		Content {
+			Level
+			Challenge {
+				Username
+				Secret
+				Points
+			}
+			Protocol
+			SecretKey
+		}
+	}
